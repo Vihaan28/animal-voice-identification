@@ -1,0 +1,58 @@
+body{
+
+background-color: #ffffff;
+text-align: center;
+}
+
+.div_header{
+
+    color: red;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 5px;
+    
+
+}
+
+.div_header h3{
+
+    font-size: 70px;
+}
+
+.div_header h4 , label{
+
+    font-family: 'Supermercado One', cursive;
+    letter-spacing: 2px;
+    color: #888c89;
+}
+
+.main_div {
+
+    background-color: #d4b0b0;
+}
+.main_div button{
+
+    width: 100px;
+    letter-spacing: 3px;
+}
+
+.main_div h2 , h3{
+
+    font-family: 'Supermercado One', cursive;
+    letter-spacing: 2px;
+    font-size: medium;
+}
+
+.main_div img {
+
+    margin-bottom: 100;
+}
+
+.copy-right-footer{
+
+    padding-right: 20px;
+    font-family: 'Lobster', cursive;
+    color: #888c89;
+    text-shadow: 5px 5px 5px #a6ada8;
+    font-size: larger;
+    
+}
